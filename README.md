@@ -1,5 +1,9 @@
 OpenCorsairLink
 ===============
+### Installing
+
+Deb complied on Ubuntu 17 as of commit 30db298
+
 ### Running
 Since the program needs direct hardware access you should run this with 'sudo' or as root.  
 

@@ -1,0 +1,8 @@
+Package: opencorsairlink
+Version: 1.0-1
+Section: base
+Priority: optional
+Architecture: i386
+Depends: libusb-1.0-0-dev
+Maintainer: audiohacked
+Description: OpenCorsiarLink is a simple program to detect corsair devices and read data.
